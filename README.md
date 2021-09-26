@@ -13,4 +13,4 @@ Example of command: igrep -i The <pg25525.txt
 
 
 Contributor: Ryan Samuel
-Documentation of grep, if needed: https://www.gnu.org/software/grep/manual/grep.html
+
